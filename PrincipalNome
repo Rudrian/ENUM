@@ -1,0 +1,14 @@
+package ENUM;
+
+public class PrincipalNomes {
+
+	public static void main(String[] args) {
+		
+		
+		for(NomePessoas Nome : NomePessoas.values()) {
+			System.out.println("--------------------");
+			System.out.println(Nome);
+		}
+	}
+
+}
