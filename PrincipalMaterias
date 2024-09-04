@@ -1,0 +1,14 @@
+package ENUM;
+
+public class PrincipalMaterias {
+
+	public static void main(String[] args) {
+		
+		for(Materias MateriasSESI : Materias.values()) {
+			System.out.println("____________________");
+			System.out.println(MateriasSESI);
+		}
+
+	}
+
+}
