@@ -1,0 +1,15 @@
+package ENUM;
+
+public class PrincipalCars {
+
+	public static void main(String[] args) {
+		
+		System.out.println("As marcas de carros são :");
+		for(Carros cars : Carros.values()) {
+			System.out.println("______________________");
+			System.out.println(cars);
+		}
+
+	}
+
+}
