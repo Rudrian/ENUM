@@ -1,0 +1,14 @@
+package ENUM;
+
+public class PrincipaisProdutos {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Os produtos são :");
+		for(Produtos ProdutosMerc : Produtos.values()) {
+			System.out.println("______________________");
+			System.out.println(ProdutosMerc);
+		}
+	}
+
+}
