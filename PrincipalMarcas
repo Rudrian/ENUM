@@ -1,0 +1,12 @@
+package ENUM;
+
+public class PrincipaisMarcas {
+
+	public static void main(String[] args) {
+		
+		for(MarcaRoupa Marcas : MarcaRoupa.values()) {
+			System.out.println("--------------------");
+			System.out.println(Marcas);
+		}
+	}
+}
