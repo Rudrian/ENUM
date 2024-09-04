@@ -1,0 +1,11 @@
+package ENUM;
+
+public enum MarcaRoupa {
+GUCCI,
+LOUIS_VUITTON,
+NIKE,
+BALENCIAGA,
+OLIMPYKUS,
+GANGSTER,
+PRADA,
+}
