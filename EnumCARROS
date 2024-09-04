@@ -1,0 +1,14 @@
+package ENUM;
+
+public enum Carros {
+LAMBORGHINI,
+BUGATTI,
+FIAT,
+FERRARI,
+TOYOTA,
+CHEVROLET,
+AUDI,
+HONDA,
+CITROEN,
+PORSCHE,
+}
